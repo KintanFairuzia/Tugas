@@ -1,0 +1,26 @@
+.jumbotron{
+background-color:skyblue;
+height: 500px;
+text-align: center;
+}
+.jumbotron img{
+    height: 200px;
+    width: 300px;
+}
+footer{
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.carousel-inner img{
+    height: 600px ;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.container .col{
+    text-align: center;
+}
